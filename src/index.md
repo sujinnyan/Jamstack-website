@@ -20,7 +20,7 @@ layout: base.liquid
                 <p>Your summer to remember starts with flavors you won't forget.</p>
                 <button class="button introduce_button">Learn More</button>
             </div>
-            <img class="w-[500px] mx-auto container2_image" src="../../img/michael-dagonakis-oj7zb1kXgKc-unsplash.jpg" alt="ice cream image">
+            <img class="w-[500px] mx-auto container2_image" src="../../img/image2.jpg" alt="ice cream image">
         </div>
         </div>
 <section class="home_container">
