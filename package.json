@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-intro",
+  "name": "Jamstack website",
   "version": "0.0.1",
-  "description": "Eleventy static site enerator for WDDM 121",
+  "description": "Jamstack-website",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
