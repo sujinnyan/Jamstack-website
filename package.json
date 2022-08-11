@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-intro",
+  "version": "0.0.1",
+  "description": "Eleventy static site enerator for WDDM 121",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "Sujin",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "tailwindcss": "^3.1.6"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "font-awesome": "^4.7.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.4.0"
+  }
+}
